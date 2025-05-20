@@ -13,7 +13,7 @@ export const products = [
     name: "Red Velvet",
     price: 10.0,
     image:
-      "https://plus.unsplash.com/premium_photo-1746637011532-171c1d009416?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "https://masonryshop.liquid-themes.com/wp-content/uploads/2021/11/main_big-5.jpg",
   },
   {
     id: 3,
